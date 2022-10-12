@@ -1,2 +1,11 @@
 # MERN-Chat-App
-Technology
+
+Technology Stack:
+
+    Node.JS
+    Express js
+    MongoDB
+    Socket.io
+    Postman
+    Mongoose
+    React
