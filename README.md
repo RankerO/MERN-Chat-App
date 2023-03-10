@@ -20,7 +20,7 @@ https://talk-a-tive.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  https://github.com/RankerO/MERN-Chat-App.git
 ```
 
 Go to the project directory
